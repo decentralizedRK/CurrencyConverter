@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Currency Converter</string>
+    <string name="amount_hint">Amount eg. 1.00</string>
+</resources>
